@@ -1,0 +1,4 @@
+python is a widely used high-level lan.
+python is also a dynamic programming lan.
+it is fun!
+it is easy to learn!

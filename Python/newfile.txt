@@ -1,0 +1,3 @@
+hello world
+now i am studying python.
+programming is fun!
